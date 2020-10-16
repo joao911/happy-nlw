@@ -1,5 +1,3 @@
-import { fchmod } from "fs";
-
 import React from 'react';
 import {FiArrowRight} from 'react-icons/fi';
 import {Link} from 'react-router-dom';
